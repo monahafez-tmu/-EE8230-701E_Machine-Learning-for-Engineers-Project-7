@@ -1,6 +1,7 @@
 Predicting Alcohol Content in Red Wine: A Regression Problem
 
 This document outlines a regression problem based on the Wine Quality dataset, specifically focusing on the red wine data. The objective is to predict the alcohol content of red wine using its other physicochemical properties. This is a classic regression task where the target variable, alcohol, is a continuous value.
+The dataset is taken from Cortez, P., Cerdeira, A., Almeida, F., Matos, T., & Reis, J. (2009). Wine Quality [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C56S3T.
 The analysis of this dataset can provide valuable insights into the chemical characteristics that influence the alcohol level in red wine. The following sections detail the problem statement, the dataset, the exploratory data analysis, and a proposed approach for building a predictive model.
 
 The primary goal is to develop a regression model that accurately predicts the alcohol percentage in red wine based on the following 11 physicochemical features:
